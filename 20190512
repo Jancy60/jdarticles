@@ -1,0 +1,71 @@
+Question: US blacklisted Huawei in what is evidently ZTE style surgical strike. It appears Huawei is pretty much dead. What can Huawei or China do to overcome this or to retaliate? What will China do?
+
+https://qr.ae/TWNbLL
+Answer:
+
+Let’s look at facts, not opinions.
+
+Let me introduce the whole supply chain of Huawei’s most popular phone in 2019: P30.
+
+
+The “brain” of the Huawei P30 mobile phone is called Kirin 980 System-on-Chip designed by HiSilicon. And HiSilicon is the sub-company under Huawei. Why is it called System-on-Chip? Because it is a chip that contains many components designed by the rest of the world and put together in a single chip.
+
+So what is inside the System-on-Chip?
+
+
+Instruction set architecture: HiSilicon purchased the CPU and GPU architectural license from ARM in Cambridge, UK. With the license, HiSilicon can use the ARM instruction set (armv8) and develop their own 64-bit CPU architecture. And the bus standard such as AMBA is also licensed from ARM.
+
+CPU, GPU: HiSilicon employs several hundred people in Shenzhen, China to design their custom CPU cores, accelerators, and IP components. In order to design their own CPU, they need to use Electronic design automation (EDA) tools from Synopsis, Cadence, and Xilinx. These EDA companies are all American companies in California, USA. HiSilicon needs to pay them license fees to use their tools to design and simulate their own CPUs.
+
+Meanwhile, HiSilicon can also integrate existing softcore designed by ARM, such as powerful core Cortex A76 and power efficient core Cortex A55. Both are in the same chip. The big core is designed in Austin, Texas, USA and the small core is designed in Cambridge, UK. Some of the low-end CPU cores are also purchased from MediaTek in Taiwan. Meanwhile, HiSilicon can also purchase other intellectual properties from ARM including the Mali T830 GPU and the interconnect subsystems. Mali GPU is designed in the ARM headquarters in Cambridge, UK.
+
+Memory: HiSilicon designed their own logic in the memory controller and SRAM systems. SRAM and DRAM cells are licensed from Samsung, Korea. The future 7nm 3D stacked RAM would also be designed from Samsung but manufactured in Dalian, China.
+
+DSP & Camera: HiSilicon purchased the Camera lens design IP and control system from Leica Camera from Germany, where most of the system was designed in Wetzlar, Germany. And the actual lens is manufactured by Largan Precision in Taiwan and Sunny Optical Technology in mainland China. The electrical motors for driving camera to change focus is manufactured by Mitsumi in Tsurumaki, Japan. To translate light into signals, the photosensitive film is designed by O-film in Shenzhen, China (also supplier for iPhone X). HiSilicon purchased the hardware solutions for auto-focus and image stabilization from ON Semiconductors in Phoenix, Arizona, USA. The HD video processing chip is licensed from Sony, Japan. And HiSilicon designed their own image processing hardware accelerators (ISP), purchased many DSP IP patents from CEVA in California, USA and AI chips from Cambricon Technologies from Beijing, China.
+
+Baseband: HiSilicon purchased IP license to use WIFI, GPS and Bluetooth IP from Broadcom from San Jose, California. For the 3G support, HiSilicon has to pay a royalty fee to patents held by Qualcomm from San Diego, California. For later 4G LTE and 5G, HiSilicon has its own patents and baseband processor called Balong, which was designed by several hundred people across China. HiSilicon has also purchased the Beidou Navigation system from Chinese Academy of Sciences. Note that some of the chip verification tasks are performed by Indian Engineers in Hyderabad, India.
+
+Radio Frequency: To multiplex between various communication signals and amplify analog signals to different wireless frequencies, they need radio frequency integrated circuits (RFICs). Most of the patents in RFIC was held by RF Micro Devices from North Carolina, USA and now became Qorvo after merging with TriQuint. In the RFIC chips, you need a few power amplifiers, high-end capacitors manufactured by Murata Manufacturing in Kyoto, Japan. You also need surface acoustic wave (SAW) sensors designed and manufactured by TST Taiwan and Microgate in Shenzhen. You also need a few silicon-on-insulator switches designed by Skyworks Solutions in the USA and manufactured by Skyworks in China. For the antennas components, they are designed and manufactured by Sunway Co. in Shenzhen and Rosenberger (USA) factories based in Shanghai, China. In the age of 5G, Huawei analog devices have to use these devices from the USA, Japan, and China as well.
+
+NFC & Touch: NXP Semiconductors in the Netherland provide NFC solutions for Huawei. And the chip is developed by Infineon in Simens, Germany. Goodix Co in Shenzhen provides the fingerprint sensor. USB Type-C solutions are provided by Shenzhen Everwin Precision.
+
+Fabrication: After HiSilicon integrating all the soft IP and package into one SOC, the design is sent to Taiwan Semiconductor Manufacturing Company (TSMC) in Taiwan for physical layout and fabrication. The fabrication process of the SOC chip is a very complex task. For the most important steps, TSMC needs to import mask alignment systems (MAS) designed by ASML from the Netherlands. They also need to use a lot of wafer chemicals from Shin-Etsu in Japan, Siltronic AG from Germany and SUMCO Corporation from Minato in Japan.
+
+Material: However, most of the chemical products and semi-products are imported from China. The most representative one is the rare earth metals in China. For other materials including glasses and steel, BYD in Shenzhen is responsible for manufacturing mobile phone gradient frames and high-density glasses. Shengyi Electronics produces all the PCB board for the phone.
+
+Screen: Huawei P30 used Samsung OLED rigid screen but P30 Pro used the OLED soft screen designed by BOE Technology in China. Some screens are also manufactured by LG, Korea and manufactured in Guangzhou, China. Now both Korean and Chinese companies are dominating in the screen market.
+
+Assemble: Huawei then orders all the components from each service provider and ship the components to Foxconn in Zhengzhou, China. Workers in Foxconn assemble all the components together into one complete phone.
+
+
+This is the supply chain for a single phone in Huawei. And this is not even the main product for Huawei but they still managed to beat Apple and become the second largest smartphone company without entering the USA market. Huawei’s main strength is its communication infrastructure and solutions. However, it is difficult for me to compile a supplier list since I am not familiar with it.
+
+Now please count how many these suppliers are from the USA, China, Japan, and Korea. For each company listed above, please go to their own website and check how much fraction of their products are actually sold to Huawei or Chinese market and how much their materials are imported from China. You would be amazed to find that Huawei is normally their biggest customers and they couldn’t leave China anymore.
+
+That means if you kill Huawei, then most of the suppliers would hurt a lot too. Some would die. Most of them are the only high-value companies left in Korea and Japan. They could not suffer a 40% market loss. That would be a huge blow to Korea and Japan economy.
+
+Clearly, the guy behind trump has no idea of the current situations in the semiconductor industry. I guess most people in Quora didn’t know as well.
+
+
+Is Huawei dead?
+
+Of course not. Ten years ago, Huawei has already initiated backup plans for various scenarios from the USA government. They even have the extreme backup plans for the scenarios when the whole of China is blocked from using the x86 instruction set.
+
+What would China do?
+
+Again, this creates a golden opportunity for China. If Huawei could not find suppliers from the USA, then they will find alternatives, mostly preferably domestic suppliers in China. This would create a huge boost in domestic companies because they suddenly get big customers.
+
+I have been talking with many Chinese scholars in different areas in the semiconductor industries in China. They said the reason why Huawei purchases intellectual properties from so many sources is not because Huawei didn’t have the technology, but it is more that for the most the area they do not bother to reinvent the wheels and they want to bind the interests with the rest of the world.
+
+There are indeed a few key technologies China still lags behind, such as the fabrication process and RF chips. But we should know how did China manage to come so far. Thanks to the technology blockade and sanctions in the Coordinating Committee for Multilateral Export Controls in Paris, China is banned to access all the high-end technology. Thanks to them, China can have the opportunity to “reinvent the wheels” on its own.
+
+Meanwhile, metros in Beijing already installed 5G coverage thanks to Huawei technology.
+
+
+But now, I am sitting in the underground in London. My phone can not connect to any signal. So I have to read offline posts about a wonderful post-Brexit article. People around me are all looking at offline novels, on their Huawei phones.
+
+Talk is cheap. Show me the code.
+
+— Linus Torvalds
+
+空谈误国，实干兴邦
